@@ -111,7 +111,7 @@ module pll (
 		altpll_component.clk0_divide_by = 25,
 		altpll_component.clk0_duty_cycle = 50,
 		altpll_component.clk0_multiply_by = 42,
-		altpll_component.clk0_phase_shift = "-800",
+		altpll_component.clk0_phase_shift = "-2755",
 		altpll_component.clk1_divide_by = 25,
 		altpll_component.clk1_duty_cycle = 50,
 		altpll_component.clk1_multiply_by = 42,
